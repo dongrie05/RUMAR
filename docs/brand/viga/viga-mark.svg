@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">VIGA symbol</title>
+  <desc id="desc">A compact black structural joint made from three balanced spans.</desc>
+  <path fill="#101311" d="M74 93c0-25 20-45 45-45h274c25 0 45 20 45 45s-20 45-45 45H119c-25 0-45-20-45-45Z"/>
+  <path fill="#101311" d="M78 362 225 107c13-22 41-29 62-17 22 13 29 40 17 62L157 407c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+  <path fill="#101311" d="m208 360 77-133c13-22 40-29 62-17 22 13 29 40 17 62l-77 133c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+</svg>

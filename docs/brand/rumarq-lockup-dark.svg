@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 320" role="img" aria-labelledby="title desc">
+  <title id="title">RUMARQ</title>
+  <desc id="desc">RUMARQ wordmark with route symbol on a dark field.</desc>
+  <rect width="1120" height="320" rx="40" fill="#132D30"/>
+  <g transform="translate(58 35) scale(.245)">
+    <path fill="#A9DCCE" d="M250 172h225l68 136H415v177l175 314H423L250 493V172Z"/>
+    <path fill="#F07C69" d="M475 172h281l65 70v154L698 527H492l76-141h118v-78H543L475 172Z"/>
+  </g>
+  <text x="300" y="190" fill="#F7F5EE" font-family="Inter, SF Pro Display, Arial, sans-serif" font-size="104" font-weight="760" letter-spacing="8">RUMARQ</text>
+  <text x="307" y="238" fill="#A9BCBA" font-family="Inter, SF Pro Text, Arial, sans-serif" font-size="22" font-weight="550" letter-spacing="4">FIELD OPERATIONS SYSTEM</text>
+</svg>

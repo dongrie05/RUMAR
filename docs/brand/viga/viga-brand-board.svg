@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1600" role="img" aria-labelledby="title desc">
+  <title id="title">VIGA brand direction</title>
+  <desc id="desc">Monochrome identity proposal for the fieldwork operating system.</desc>
+  <rect width="1600" height="1600" fill="#F5F4EF"/>
+
+  <text x="88" y="92" fill="#72736E" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">IDENTITY 01 / STRUCTURE</text>
+  <text x="1512" y="92" text-anchor="end" fill="#72736E" font-family="Arial, Helvetica, sans-serif" font-size="20">GLOBAL FIELDWORK SYSTEM</text>
+
+  <g transform="translate(86 210) scale(.56)">
+    <path fill="#101311" d="M74 93c0-25 20-45 45-45h274c25 0 45 20 45 45s-20 45-45 45H119c-25 0-45-20-45-45Z"/>
+    <path fill="#101311" d="M78 362 225 107c13-22 41-29 62-17 22 13 29 40 17 62L157 407c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+    <path fill="#101311" d="m208 360 77-133c13-22 40-29 62-17 22 13 29 40 17 62l-77 133c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+  </g>
+  <text x="430" y="455" fill="#101311" font-family="Arial, Helvetica, sans-serif" font-size="230" font-weight="700" letter-spacing="14">VIGA</text>
+  <text x="96" y="598" fill="#101311" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="500">The system behind the work.</text>
+
+  <line x1="88" y1="674" x2="1512" y2="674" stroke="#D6D5CF" stroke-width="2"/>
+
+  <rect x="88" y="744" width="520" height="520" rx="116" fill="#101311"/>
+  <g transform="translate(160 812) scale(.74)">
+    <path fill="#F5F4EF" d="M74 93c0-25 20-45 45-45h274c25 0 45 20 45 45s-20 45-45 45H119c-25 0-45-20-45-45Z"/>
+    <path fill="#F5F4EF" d="M78 362 225 107c13-22 41-29 62-17 22 13 29 40 17 62L157 407c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+    <path fill="#F5F4EF" d="m208 360 77-133c13-22 40-29 62-17 22 13 29 40 17 62l-77 133c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+  </g>
+
+  <g transform="translate(704 744)">
+    <text x="0" y="22" fill="#72736E" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">ONE MARK. EVERY SCALE.</text>
+    <rect x="0" y="75" width="720" height="250" rx="38" fill="#E7E6E0"/>
+    <g transform="translate(44 112) scale(.28)">
+      <path fill="#101311" d="M74 93c0-25 20-45 45-45h274c25 0 45 20 45 45s-20 45-45 45H119c-25 0-45-20-45-45Z"/><path fill="#101311" d="M78 362 225 107c13-22 41-29 62-17 22 13 29 40 17 62L157 407c-13 22-40 29-62 17-22-13-29-40-17-62Z"/><path fill="#101311" d="m208 360 77-133c13-22 40-29 62-17 22 13 29 40 17 62l-77 133c-13 22-40 29-62 17-22-13-29-40-17-62Z"/>
+    </g>
+    <text x="220" y="230" fill="#101311" font-family="Arial, Helvetica, sans-serif" font-size="106" font-weight="700" letter-spacing="7">VIGA</text>
+
+    <text x="0" y="402" fill="#72736E" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="3">PRODUCT ACCENTS</text>
+    <circle cx="44" cy="474" r="42" fill="#173437"/>
+    <circle cx="148" cy="474" r="42" fill="#E9643A"/>
+    <circle cx="252" cy="474" r="42" fill="#3FA77C"/>
+    <circle cx="356" cy="474" r="42" fill="#A9DCCE"/>
+    <text x="0" y="568" fill="#101311" font-family="Arial, Helvetica, sans-serif" font-size="25">The identity stays black and bone.</text>
+    <text x="0" y="610" fill="#72736E" font-family="Arial, Helvetica, sans-serif" font-size="25">Colour belongs to status, action and navigation.</text>
+  </g>
+
+  <rect x="88" y="1378" width="1424" height="2" fill="#D6D5CF"/>
+  <text x="88" y="1460" fill="#101311" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">VIGA</text>
+  <text x="88" y="1505" fill="#72736E" font-family="Arial, Helvetica, sans-serif" font-size="25">A load-bearing identity: quiet, useful, unmistakable.</text>
+  <text x="1512" y="1488" text-anchor="end" fill="#101311" font-family="Arial, Helvetica, sans-serif" font-size="25">16 px → app icon → van → workwear</text>
+</svg>

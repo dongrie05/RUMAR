@@ -1,0 +1,35 @@
+PODS:
+  - add_2_calendar (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - add_2_calendar (from `.symlinks/plugins/add_2_calendar/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+
+EXTERNAL SOURCES:
+  add_2_calendar:
+    :path: ".symlinks/plugins/add_2_calendar/ios"
+  Flutter:
+    :path: Flutter
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+
+SPEC CHECKSUMS:
+  add_2_calendar: a7585019c9875312e69412bfd168df46018994f7
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_local_notifications: 643a3eda1ce1c0599413ca31672536d423dee214
+  shared_preferences_foundation: 7036424c3d8ec98dfe75ff1667cb0cd531ec82bb
+
+PODFILE CHECKSUM: 3c63482e143d1b91d2d2560aee9fb04ecc74ac7e
+
+COCOAPODS: 1.16.2

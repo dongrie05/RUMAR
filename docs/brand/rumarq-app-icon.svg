@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">RUMARQ app icon</title>
+  <desc id="desc">RUMARQ route symbol on a deep green field.</desc>
+  <rect width="1024" height="1024" rx="224" fill="#132D30"/>
+  <g transform="translate(92 90) scale(.82)">
+    <path fill="#D7EEE7" d="M250 172h225l68 136H415v177l175 314H423L250 493V172Z"/>
+    <path fill="#F07C69" d="M475 172h281l65 70v154L698 527H492l76-141h118v-78H543L475 172Z"/>
+  </g>
+</svg>

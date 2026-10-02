@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">RUMARQ global brand direction</title>
+  <desc id="desc">Brand board showing the RUMARQ identity, positioning, colors, icon and interface character.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="20" stdDeviation="28" flood-color="#0B2022" flood-opacity=".13"/>
+    </filter>
+    <style>
+      .sans{font-family:Inter,"SF Pro Display",Arial,sans-serif}
+      .caps{letter-spacing:4px;font-weight:700}
+    </style>
+  </defs>
+
+  <rect width="1600" height="1100" fill="#F4F2EA"/>
+  <circle cx="1450" cy="-10" r="410" fill="#E5F1EC"/>
+  <circle cx="30" cy="1100" r="330" fill="#F8DFD6"/>
+
+  <text x="92" y="86" class="sans caps" font-size="17" fill="#687B79">GLOBAL BRAND DIRECTION · 01</text>
+  <text x="92" y="164" class="sans" font-size="70" font-weight="760" fill="#152B2E">Work moves forward.</text>
+  <text x="94" y="210" class="sans" font-size="24" fill="#60716F">The field operations system that turns every request into completed work.</text>
+
+  <g transform="translate(92 275)" filter="url(#shadow)">
+    <rect width="910" height="310" rx="36" fill="#132D30"/>
+    <g transform="translate(22 13) scale(.28)">
+      <path fill="#A9DCCE" d="M250 172h225l68 136H415v177l175 314H423L250 493V172Z"/>
+      <path fill="#F07C69" d="M475 172h281l65 70v154L698 527H492l76-141h118v-78H543L475 172Z"/>
+    </g>
+    <text x="302" y="177" class="sans" font-size="98" font-weight="760" letter-spacing="7" fill="#F7F5EE">RUMARQ</text>
+    <text x="308" y="224" class="sans caps" font-size="19" fill="#A7BAB7">FIELD OPERATIONS SYSTEM</text>
+    <path d="M308 252h418" stroke="#345053" stroke-width="2"/>
+    <text x="308" y="280" class="sans" font-size="17" fill="#7F9996">Request  →  Plan  →  Route  →  Done</text>
+  </g>
+
+  <g transform="translate(1060 275)" filter="url(#shadow)">
+    <rect width="300" height="300" rx="72" fill="#132D30"/>
+    <g transform="translate(4 8) scale(.285)">
+      <path fill="#D7EEE7" d="M250 172h225l68 136H415v177l175 314H423L250 493V172Z"/>
+      <path fill="#F07C69" d="M475 172h281l65 70v154L698 527H492l76-141h118v-78H543L475 172Z"/>
+    </g>
+  </g>
+  <text x="1082" y="615" class="sans caps" font-size="14" fill="#758583">APP ICON · FORWARD ROUTE</text>
+
+  <g transform="translate(92 665)">
+    <text class="sans caps" font-size="15" fill="#748380">COLOR SYSTEM</text>
+    <g transform="translate(0 34)">
+      <rect width="175" height="144" rx="24" fill="#132D30"/>
+      <text x="18" y="103" class="sans" font-size="17" font-weight="700" fill="#F7F5EE">System</text>
+      <text x="18" y="127" class="sans" font-size="14" fill="#9DB3B1">#132D30</text>
+    </g>
+    <g transform="translate(191 34)">
+      <rect width="175" height="144" rx="24" fill="#F07C69"/>
+      <text x="18" y="103" class="sans" font-size="17" font-weight="700" fill="#3B211D">Action</text>
+      <text x="18" y="127" class="sans" font-size="14" fill="#6A332A">#F07C69</text>
+    </g>
+    <g transform="translate(382 34)">
+      <rect width="175" height="144" rx="24" fill="#A9DCCE"/>
+      <text x="18" y="103" class="sans" font-size="17" font-weight="700" fill="#173437">Flow</text>
+      <text x="18" y="127" class="sans" font-size="14" fill="#355F5B">#A9DCCE</text>
+    </g>
+    <g transform="translate(573 34)">
+      <rect width="175" height="144" rx="24" fill="#F7F5EE" stroke="#D8D9D2"/>
+      <text x="18" y="103" class="sans" font-size="17" font-weight="700" fill="#173437">Canvas</text>
+      <text x="18" y="127" class="sans" font-size="14" fill="#687775">#F7F5EE</text>
+    </g>
+  </g>
+
+  <g transform="translate(930 665)">
+    <text class="sans caps" font-size="15" fill="#748380">PRODUCT VOICE</text>
+    <text y="73" class="sans" font-size="33" font-weight="720" fill="#173437">Clear. Capable. In motion.</text>
+    <text y="117" class="sans" font-size="19" fill="#667674">No robots. No AI theatre. No office jargon.</text>
+    <g transform="translate(0 155)">
+      <rect width="520" height="158" rx="28" fill="#FFFFFF" stroke="#E0E1DA"/>
+      <circle cx="52" cy="52" r="25" fill="#F07C69"/>
+      <path d="M42 52h20m-7-7 7 7-7 7" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="94" y="49" class="sans caps" font-size="12" fill="#A94F3F">NEXT BEST ACTION</text>
+      <text x="94" y="78" class="sans" font-size="19" font-weight="700" fill="#173437">Confirm the 11:30 service</text>
+      <text x="94" y="106" class="sans" font-size="16" fill="#71807E">Route fits · customer reply prepared</text>
+      <rect x="353" y="115" width="143" height="29" rx="14" fill="#E6F3EE"/>
+      <text x="374" y="135" class="sans" font-size="13" font-weight="700" fill="#287156">Ready to review</text>
+    </g>
+  </g>
+
+  <text x="92" y="1044" class="sans" font-size="17" fill="#687775">Built in Portugal · designed for the people who keep the world running</text>
+  <text x="1450" y="1044" text-anchor="end" class="sans caps" font-size="14" fill="#879491">DONGRIE LABS</text>
+</svg>
